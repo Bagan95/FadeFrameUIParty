@@ -22,9 +22,17 @@ Under "Local" press on "Download ZIP"
 
 Extract the FadeFrameUIParty-main.zip file to your WoW folder where you have your addons installed "\Interface\AddOns"
 
-Make sure the addon folder you just downloaded is named **FadeFrameUIParty** and not FadeFrameUIParty-main or FadeFrameUIParty-1.X.X.zip, otherwise it will not show up ingame.
+Make sure the addon folder you just downloaded is named **FadeFrameUIPARTY** and not FadeFrameUIParty-main or FadeFrameUIParty-1.X.X.zip, otherwise it will not show up ingame.
 
 Should look like this: "\Interface\AddOns\FadeFrameUIParty"
+
+## Supported Addons
+This addon support and recommend [FadeFrameUI-WOTLK](https://github.com/Bagan95/FadeFrameUI-WOTLK)
+
+ShaguTweaks Addon has an option called "Chat Tweaks" that you can activate ingame. By activating the function you are able to use the scroll wheel
+of your mouse instead of the arrow buttons up and down, on the chat frame it self.
+
+Unlock the chat frame and drag it slightly out of the screen to not have the arrow buttons visable anymore.
 
 ## Other Information
 Works on World of Warcraft version 3.3.5 WOTLK (Wrath of the Lich King), that includes Warmane Onyxia server that is currently in TBC state.

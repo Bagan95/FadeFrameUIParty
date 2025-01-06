@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: FadeFrameUIParty
-## Notes: Adjusts the party frame opacity based on health.
+## Notes: Adjusts the party frame opacity based on health on each party member.
 ## Version: 1.0
 ## Author: Bagan95
 
