@@ -19,7 +19,7 @@ Press on the green button "<> Code" top right corner or press directly here [Dow
 
 Under "Local" press on "Download ZIP"
 
-Extract the FadeFrameUI-WOTLK-main.zip file to your WoW folder where you have your addons installed "\Interface\AddOns"
+Extract the FadeFrameUIParty-main.zip file to your WoW folder where you have your addons installed "\Interface\AddOns"
 
 Make sure the addon folder you just downloaded is named **FadeFrameUIPARTY** and not FadeFrameUIParty-main or FadeFrameUIParty-1.X.X.zip, otherwise it will not show up ingame.
 
