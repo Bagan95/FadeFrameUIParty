@@ -15,7 +15,7 @@ This addon will hopefully make you more immersed in to the game and also prevent
 
 
 # How To Download And Install The Addon
-Press on the green button "<> Code" top right corner or press directly here [Download](https://github.com/Bagan95/FadeFrameUIxxxxx)
+Press on the green button "<> Code" top right corner or press directly here [Download](https://github.com/Bagan95/FadeFrameUIParty/archive/refs/heads/main.zip)
 
 Under "Local" press on "Download ZIP"
 
