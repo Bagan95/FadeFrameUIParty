@@ -3,6 +3,7 @@ Lightweight addon that changes the transparency of the party frame based on the 
 - party member is lower than 80% health
 
 This addon will hopefully make you more immersed in to the game and also prevent burn in on OLED-monitors. 
+Also more alert when party member loses health.
 
 # This is 20% (default) transparency when party member is above 80% health.
 
