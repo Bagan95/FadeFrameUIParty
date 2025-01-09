@@ -1,6 +1,6 @@
 # FadeFrameUIParty - WOTLK 3.3.5
 Lightweight addon that changes the transparency of the party frame based on the following conditions:    
-- Party members health is below or above 80% health.
+- Party members health is below or above 80% health and debuff
 
 This addon will hopefully make you more immersed in to the game and also prevent burn in on OLED-monitors. 
 Also more alert when party member loses health.
